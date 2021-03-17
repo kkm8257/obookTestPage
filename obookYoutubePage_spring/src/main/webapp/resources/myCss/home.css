@@ -15,6 +15,9 @@ body{
 	flex-direction: column;
 	align-items: center;
 }
+.ad_clip{
+	display:block;
+}
 
 
 .top{
@@ -44,7 +47,7 @@ body{
 	display:flex;
 	justify-content: center;
 	align-items: center;
-	
+	margin-bottom:40px;
 }
 
 .banner div {
@@ -70,8 +73,14 @@ body{
 
 }
 
+.obook_youtube_link{
+	margin-top:30px;
+		box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px;
+	
+}
+
 .bottom ul{
-	margin-top:80px;
+	margin-top:30px;
 }
 
 .bottom ul li{
@@ -80,13 +89,65 @@ body{
 	border-top:2px solid #80808080;
 	border-bottom:2px solid #80808080;
 	list-style: none;
+	display:flex;
+	
 }
+
+.obook_youtube_link{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #9013FD80;
+	width:150px;
+	height:60px;
+	border-radius:15px;
+}
+.obook_youtube_link a span{
+	color:#fff;
+}
+
+.obook_youtube_link a span:hover{
+	opacity:0.6;
+}
+
+ .obook_youtube_link  a:link { color: red; text-decoration: none;}
+.obook_youtube_link   a:visited { color: black; text-decoration: none;}
+ .obook_youtube_link  a:hover { color:black;}
+
+
+
+.bottom ul li a{
+	display:flex;
+}
+
+
+ .bottom ul li a:link { color: red; text-decoration: none;}
+.bottom ul li  a:visited { color: black; text-decoration: none;}
+ .bottom ul li a:hover { color:black;}
+
+
 
 
 .bottom ul li img{
 	width:300px;
 	height:210px;
-	
+	border-radius: 15px;
+	box-shadow: rgba(0, 0, 0, 0.4) 0px 10px 30px;
 }
+.bottom ul li img:hover{
+	opacity:0.6;
+}
+
+.bottom ul li .author-div{
+	font-family: 'ELAND_Choice_M';
+	font-size: 35px;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	margin-left:40px;
+}
+
+
+
 
 

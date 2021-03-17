@@ -29,20 +29,70 @@
 
 
 
-<iframe width="900" height="400" src="https://www.youtube.com/embed/fTvAnNWujBY?amp;autoplay=1&amp;mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe class="ad_clip" width="1000" height="400"
+		src="https://www.youtube.com/embed/fTvAnNWujBY?amp;autoplay=1&amp;mute=1"
+		frameborder="0"
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+		allowfullscreen></iframe>
 
-<div class="bottom">
-
-	<ul>
-		<li><img src="https://img.youtube.com/vi/Y5-mzvm0C2w/0.jpg"></li>	
-		
-	
-	
-	
-	</ul>
+	<div class="bottom">
 
 
-</div>
+		<div class="obook_youtube_link"><a href="https://www.youtube.com/channel/UC8iLMMEiwZk0qQ704QEmQJw" target='_blank'><span>오북 유튜브 바로가기</span></a></div>
+
+		<ul>
+			<!-- 		<li><img src="https://img.youtube.com/vi/Y5-mzvm0C2w/0.jpg"></li> -->
+
+
+			<li><a
+				href="https://www.youtube.com/channel/UCLP2_A7_ybB6YcEodh3oIEA"
+				target='_blank'> <img
+					src="https://img.youtube.com/vi/Y5-mzvm0C2w/0.jpg"></a>
+			<div class="author-div">
+			<div>
+				난는나는잉간 유튜브 	
+			</div></div></li>
+<li><a
+				href="https://www.youtube.com/channel/UC7VB_IYJyCZys6BqiQnoBSA"
+				target='_blank'> <img
+					src="https://img.youtube.com/vi/LzhpNOCy4Xg/0.jpg"></a>
+			<div class="author-div">
+			<div>
+			카멜레온 유튜브 
+			</div></div></li>
+<li><a
+				href="https://www.youtube.com/channel/UCNaXFhZrwi-iLhLXQ7f2X_A"
+				target='_blank'> <img
+					src="https://img.youtube.com/vi/Y0TuBGNZseI/0.jpg"></a>
+			<div class="author-div">
+			<div>
+			공일 유튜브 	
+			</div></div></li>
+
+<li><a
+				href="https://www.youtube.com/channel/UCYwxmi2bpkvzqvyB2VoUr8g"
+				target='_blank'> <img
+					src="https://img.youtube.com/vi/Edt7Yp-YqFI/0.jpg"></a>
+			<div class="author-div">
+			<div>
+			존크라운 유튜브 	
+			</div></div></li>
+
+<li><a
+				href="https://www.youtube.com/channel/UCSkKzA2uLvEd3Y9Gfj_tq3g"
+				target='_blank'> <img
+					src="https://img.youtube.com/vi/EVH7KdpuQTo/0.jpg"></a>
+			<div class="author-div">
+			<div>
+			메롱이 유튜브 	
+			</div></div></li>
+
+
+
+		</ul>
+
+
+	</div>
 
 </body>
 </html>
